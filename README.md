@@ -1,40 +1,36 @@
-# Conscious Integration Model (MIC)
+# Conscious Integration Model (MIC) / Modelo de Integración Consciente
 
-**Status:** Early-stage research and development · **Language:** English / [Español](README.es.md)
+**Research and exploratory software development** · **Author:** Marcela Barría Cárdenas, clinical psychologist, Chile  
+**Language:** English / [Español](README.es.md)
 
-The **Conscious Integration Model (MIC)** is a framework developed by clinical psychologist Marcela Barría Cárdenas to explore the critical, ethical, and human-centered integration of artificial intelligence into psychology and mental health practice.
+MIC is a research framework exploring critical, ethical and human-centered AI integration in psychology and mental health. Its public-facing pillars are **Soberanía (Sovereignty)**, **Secreto (Confidentiality)** and **Profundidad (Depth)**.
 
-This repository documents the **technical exploration** of MIC: possible educational resources, interactive prototypes, and reusable software components. The framework is being operationalized; no validated psychometric instrument, clinical decision-support system, or deployable assessment is available here at present.
+The project predates this repository. A conceptual preprint and an **external exploratory platform-questionnaire prototype** have been reported; this repository documents the research-to-software development path. Neither the external prototype nor this repository constitutes a validated psychometric instrument, clinical product or compliance certification.
 
-## Objectives
+## Explore the work
+- [Research background and evidence status](RESEARCH.md)
+- [Existing external proof of concept and limitations](PROOF_OF_CONCEPT.md)
+- [Technical development roadmap](TECHNICAL_ROADMAP.md)
+- [Proposed software architecture](ARCHITECTURE.md)
+- [Research references and evidence register](RESEARCH_REFERENCES.md)
+- [Project overview](docs/project-overview.md) · [Ethical principles](docs/ethical-principles.md)
+- [Repository roadmap](ROADMAP.md) · [Contributing](CONTRIBUTING.md)
 
-- Translate conceptual requirements into transparent technical specifications.
-- Explore interactive learning and structured reflection tools for professionals.
-- Document design decisions, limitations, and responsible AI safeguards.
-- Identify software components that could be shared under an open-source license in the future.
+## External work
+- [Exploratory MIC platform questionnaire](https://iaysaludmental.com/diagnostico_plataformas_mic.html)
+- [Published preprint](https://doi.org/10.5281/zenodo.19528298)
+- [IA y Salud Mental](https://iaysaludmental.com)
 
-## Current status
+## Current state and next steps
+**Documented:** conceptual research, ethics and scope, external questionnaire proof of concept.  
+**Planned:** construct-to-requirement mapping, educational demonstrations, secure research infrastructure, expert review and empirical evaluation.  
+**Not claimed:** released open-source software, validated scoring, diagnostic capability or clinical effectiveness.
 
-Documentation and planning only. The project does **not** currently contain a validated instrument, a clinical product, or released open-source software.
+## Open-source intent and IP
+The public repository does not currently grant a license. The project intends to identify reusable software components that could be released under an explicit license. Protected instrument content, scoring keys, patient data and other confidential materials will not be made public by default.
 
-## Roadmap
-
-See [ROADMAP.md](ROADMAP.md) for proposed milestones. Items on the roadmap are plans, not completed features.
-
-## Ethics and boundaries
-
-MIC is intended to **support, not replace**, professional judgment. No real patient data, confidential clinical records, proprietary assessment items, or sensitive credentials should be committed to this repository. See [ethical principles](docs/ethical-principles.md).
-
-## Intellectual property and licensing
-
-**No license has been granted yet.** Public visibility does not imply permission to copy, modify, or redistribute the contents. The MIC conceptual framework, instrument materials, and future scoring logic are not automatically open source. The licensing of any future code modules will be decided explicitly and documented separately.
-
-## Collaboration
-
-See [CONTRIBUTING.md](CONTRIBUTING.md). At this stage, discussions and suggestions are welcome; code contributions should be coordinated before submission.
+## Why development resources matter
+The intended next stage involves implementing accessible educational interfaces, testing questionnaire workflows, documenting privacy safeguards and building reproducible research infrastructure. AI coding assistance can support engineering work, but clinical, ethical and methodological judgments remain with qualified humans.
 
 ## Author
-
 Marcela Barría Cárdenas · IA y Salud Mental · Chile
-
-Website: https://iaysaludmental.com

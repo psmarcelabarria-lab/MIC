@@ -1,40 +1,36 @@
 # Modelo de Integración Consciente (MIC)
 
-**Estado:** Investigación y desarrollo inicial · **Idiomas:** Español / [English](README.md)
+**Investigación y desarrollo tecnológico exploratorio** · **Autora:** Marcela Barría Cárdenas, psicóloga clínica, Chile  
+**Idiomas:** Español / [English](README.md)
 
-El **Modelo de Integración Consciente (MIC)** es un marco desarrollado por la psicóloga clínica Marcela Barría Cárdenas para explorar la integración crítica, ética y centrada en las personas de la inteligencia artificial en psicología y salud mental.
+El MIC es un marco de investigación para estudiar la integración crítica, ética y centrada en las personas de la inteligencia artificial en psicología y salud mental. Sus pilares públicos son **Soberanía, Secreto y Profundidad**.
 
-Este repositorio documenta la **exploración tecnológica** del MIC: posibles recursos educativos, prototipos interactivos y componentes de software reutilizables. El modelo se encuentra en proceso de operacionalización. Actualmente no se publica aquí un instrumento psicométrico validado, un sistema de apoyo a decisiones clínicas ni una herramienta de evaluación lista para su uso.
+El proyecto es anterior a este repositorio. Cuenta con un preprint conceptual referido por su autora y un **prototipo externo de cuestionario exploratorio para plataformas**. Este repositorio documenta el tránsito desde la investigación hacia posibles herramientas digitales. Ni el prototipo ni los documentos publicados constituyen un instrumento psicométrico validado, un producto clínico o una certificación de cumplimiento.
 
-## Objetivos
+## Documentación del proyecto
+- [Investigación y estado de la evidencia](RESEARCH.md)
+- [Prueba de concepto existente y limitaciones](PROOF_OF_CONCEPT.md)
+- [Hoja de ruta tecnológica](TECHNICAL_ROADMAP.md)
+- [Arquitectura propuesta](ARCHITECTURE.md)
+- [Referencias y registro de evidencia](RESEARCH_REFERENCES.md)
+- [Presentación del proyecto](docs/project-overview.md) · [Principios éticos](docs/ethical-principles.md)
+- [Hoja de ruta del repositorio](ROADMAP.md) · [Contribuciones](CONTRIBUTING.md)
 
-- Traducir requisitos conceptuales en especificaciones técnicas transparentes.
-- Explorar herramientas interactivas de aprendizaje y reflexión estructurada para profesionales.
-- Documentar decisiones de diseño, limitaciones y resguardos para un uso responsable de IA.
-- Identificar componentes tecnológicos que eventualmente puedan publicarse con una licencia de código abierto.
+## Trabajo externo existente
+- [Diagnóstico MIC exploratorio para plataformas](https://iaysaludmental.com/diagnostico_plataformas_mic.html)
+- [Preprint publicado](https://doi.org/10.5281/zenodo.19528298)
+- [IA y Salud Mental](https://iaysaludmental.com)
 
-## Estado actual
+## Estado y próximos pasos
+**Documentado:** investigación conceptual, límites éticos y prototipo exploratorio externo.  
+**Planificado:** operacionalización, demostraciones educativas, infraestructura segura para investigación, revisión experta y evaluación empírica.  
+**No se afirma:** software open source ya liberado, puntuaciones validadas, capacidad diagnóstica o eficacia clínica demostrada.
 
-Solo documentación y planificación. El proyecto **no** contiene por ahora un instrumento validado, un producto clínico ni software open source publicado.
+## Código abierto y propiedad intelectual
+El repositorio público no concede actualmente una licencia. Se estudiará la liberación de componentes reutilizables bajo licencias explícitas. Los materiales protegidos del instrumento, claves de puntuación, datos de pacientes y contenidos confidenciales no se publicarán automáticamente.
 
-## Hoja de ruta
-
-Consulta [ROADMAP.md](ROADMAP.md). Los hitos son propuestas de desarrollo, no funcionalidades terminadas.
-
-## Límites éticos
-
-El MIC busca **apoyar, no reemplazar**, el juicio profesional. No deben subirse datos reales de pacientes, registros clínicos confidenciales, ítems protegidos ni credenciales. Consulta [principios éticos](docs/ethical-principles.md).
-
-## Propiedad intelectual y licencias
-
-**Por ahora no se concede ninguna licencia.** Que el repositorio sea público no autoriza copiar, modificar ni redistribuir sus contenidos. El marco conceptual MIC, los materiales del instrumento y los eventuales algoritmos de puntuación no pasan automáticamente a ser de código abierto. La licencia de futuros módulos de software se definirá y publicará explícitamente.
-
-## Colaboración
-
-Consulta [CONTRIBUTING.md](CONTRIBUTING.md). Se reciben observaciones y sugerencias; las contribuciones de código deben coordinarse previamente.
+## Para qué servirían recursos de desarrollo
+La siguiente etapa requiere construir interfaces educativas accesibles, probar flujos de cuestionarios, documentar resguardos de privacidad y desarrollar infraestructura de investigación reproducible. La asistencia de IA puede apoyar tareas de ingeniería, pero no sustituye el juicio clínico, ético o metodológico.
 
 ## Autora
-
 Marcela Barría Cárdenas · IA y Salud Mental · Chile
-
-Sitio: https://iaysaludmental.com
